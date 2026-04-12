@@ -1,0 +1,12 @@
+# Sécurité : Variables d'environnement
+.env
+
+# Python : Fichiers temporaires et environnement virtuel
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Django : Fichiers médias (photos des élèves, etc.)
+media/
